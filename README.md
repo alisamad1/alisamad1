@@ -60,9 +60,12 @@
 
 <p>
   <a href="mailto:aliussamad@gmail.com"><img src="https://img.shields.io/badge/-Email-333?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/aliussamad1/"><img src="https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/ali-samad-841b11301/"><img src="https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/alisamad1"><img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" /></a>
-  <!-- Add your portfolio link if available -->
+  <a href="https://personal-portfolio-website-two-vert.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
+</a>
+
 </p>
 
 ---
