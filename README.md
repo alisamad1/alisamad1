@@ -49,7 +49,7 @@
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **RockyBot: News Research Tool** | Semantic search tool for real-time news using OpenAI, LangChain, and FAISS. | Python, Flask, Streamlit, OpenAI | [Repo](https://github.com/alisamad1/RockyBot) |
+| **RockyBot: News Research Tool** | Semantic search tool for real-time news using OpenAI, LangChain, and FAISS. | Python, Flask, Streamlit, OpenAI | [Repo](https://github.com/alisamad1/RockyBot---News-Research-Tool) |
 | **DALL-E 3 AI Image Generator** | Generate images from text prompts using DALL-E 3 API. | Python, Flask, OpenAI | [Repo](https://github.com/alisamad1/DALLE-3-Image-Generator) |
 | **Crop Recommendation App** | ML-powered app for crop prediction based on soil and weather data. | Python, Streamlit | [Repo](https://github.com/alisamad1/Crop-Recommendation-App) |
 | **Student Performance Predictor** | Predicts student outcomes using ML models. | Python, Streamlit | [Repo](https://github.com/alisamad1/Student-Performance-Predictor) |
